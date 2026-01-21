@@ -1,6 +1,10 @@
 <img width="1280" height="320" alt="Morgan Maxwell (1)" src="https://github.com/user-attachments/assets/2e3690d1-ad34-47dd-9a5a-14d23098343f" />
 
-<img width="500" height="500" alt="Black and White Minimalist Luxury fashion Logo" src="https://github.com/user-attachments/assets/271fa98a-7041-4332-ac5d-8769536a89b6" /> sadwasdsafdagdapocviospcfd
+
+
+
+This logo captures the essence of "reaching new heights" by merging the grounded strength of a mountain peak with the explosive, forward momentum of a rocket launch. It represents the ultimate achievement of goals through innovation, framed within a circle that suggests a global or planetary perspective. The high-energy yellow and professional blue palette further reinforces a narrative of optimistic progress and technical expertise.
+<img width="500" height="500" alt="Black and White Minimalist Luxury fashion Logo" src="https://github.com/user-attachments/assets/271fa98a-7041-4332-ac5d-8769536a89b6" /> 
 
 
 
