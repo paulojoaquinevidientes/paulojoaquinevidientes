@@ -1,6 +1,7 @@
 <img width="1280" height="320" alt="Morgan Maxwell (1)" src="https://github.com/user-attachments/assets/2e3690d1-ad34-47dd-9a5a-14d23098343f" />
 
-<img width="1080" height="1080" alt="Pink Minimalist Fashion Collection Logo" src="https://github.com/user-attachments/assets/80380aef-f3c9-4a8d-a3b4-77377c424af3" />
+<img width="500" height="500" alt="Black and White Minimalist Luxury fashion Logo" src="https://github.com/user-attachments/assets/271fa98a-7041-4332-ac5d-8769536a89b6" />
+
 
 
 # 💫 About Me:
