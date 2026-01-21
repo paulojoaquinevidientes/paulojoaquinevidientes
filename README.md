@@ -1,3 +1,7 @@
+<img width="1280" height="320" alt="Morgan Maxwell (1)" src="https://github.com/user-attachments/assets/2e3690d1-ad34-47dd-9a5a-14d23098343f" />
+
+
+
 # 💫 About Me:
 🔭 I’m currently working on graduating and doing well in academics<br>👯 I’m looking to collaborate on many projects<br>🤝 I’m looking for help with coding<br>🌱 I’m currently learning problem solving and coding<br>💬 Ask me about mathematics <br>⚡ Fun fact I love to watch movies and do photography
 
