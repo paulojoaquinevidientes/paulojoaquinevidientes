@@ -4,7 +4,6 @@
 
 
 
-<img width="1280" height="320" alt="Morgan Maxwell (1)" src="https://github.com/user-attachments/assets/2e3690d1-ad34-47dd-9a5a-14d23098343f" />
 
 
 
@@ -15,6 +14,10 @@ This logo captures the essence of "reaching new heights" by merging the grounded
 <p align="center">
   <img width="500" height="500" alt="Black and White Minimalist Luxury fashion Logo" src="https://github.com/user-attachments/assets/271fa98a-7041-4332-ac5d-8769536a89b6"alt="Alt text" />
 </p>
+
+
+
+<img width="1280" height="320" alt="Morgan Maxwell (1)" src="https://github.com/user-attachments/assets/2e3690d1-ad34-47dd-9a5a-14d23098343f" />
 
 
 # 💫 About Me:
